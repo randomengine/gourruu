@@ -1,0 +1,1 @@
+export const SET_ADMIN_DETAILS = "SET_ADMIN_DETAILS";
